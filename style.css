@@ -1,0 +1,62 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+
+.hero-bg {
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+
+.price-text {
+    color: #FF249E;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.btn-panda {
+    background-color: #FF249E;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.btn-panda:hover {
+    background-color: #d11d82;
+    color: white;
+}
+
+
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: #FF249E;
+}
+.cat3 {
+    background-color: blue;
+}
+
+
+.card {
+    border-radius: 15px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: contain;
+}
+
+
+.subscribe-bg {
+    background-color: #fceae8;
+    height: 300px;
+}
+
+.form-control {
+    border-radius: 8px 0 0 8px;
+    border: none;
+    padding: 12px;
+}
